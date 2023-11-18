@@ -10,14 +10,14 @@
 
 ### 1-02. thing, things, something, what.
 
-*zxa*, *żxa*.
+*ëzxa*, *ëżxa*.
 
 ![](https://learnthesewordsfirst.com/images/Word-Thing.png)
 
 > Tony sees **something**.
 > Lisa sees **something**.
 
-Żalá hli Toni/Lisë zxa.
+Żalá hli Toni/Lisë ëzxa.
 
 ### 1-03. this, these.
 
@@ -47,19 +47,19 @@
 
 > Tony sees something.
 
-Żalá hli Toni zxëi.
+Żalá hli Toni ëzxëi.
 
 > Lisa sees **the same** thing.
 
-Żalá hli Lisë zxëixita.
+Żalá hli Lisë ëzxëixita.
 
 > Lisa sees **the same** thing **as** Tony sees.
 
-Żalá hli Lisë áżala hli Toni zxëixäna.
+Żalá hli Lisë áżala hli Toni ëzxëixäna.
 
 [*This thing Lisa sees **is** what Tony sees.*] = This thing Lisa sees **is the same thing as** Tony sees.
 
-Čalá áżalëi hli Lisë talänëi áżala hli Toni zxëixäna.
+Čalá áżalëi hli Lisë talänëi áżala hli Toni ëzxëixäna.
 
 ### 1-06. one, one of.
 
@@ -69,7 +69,7 @@
 
 > Tony sees **one** thing.
 
-Żalá hli Toni llalëi zxui.
+Żalá hli Toni llalëi ëzxui.
 
 ### 1-07. two, two of.
 
@@ -79,7 +79,7 @@
 
 > Lisa sees **two** things.
 
-Żalá hli Lisë ksalëi zxui.
+Żalá hli Lisë ksalëi ëzxui.
 
 ### 1-08. person, people.
 
@@ -103,7 +103,7 @@
 
 > Tony sees **many** things.
 
-Żalá hli Toni zxëixörfa.
+Żalá hli Toni ëzxëixörfa.
 
 > Lisa sees **many** people.
 
@@ -301,7 +301,7 @@ Talöxwirúi hla Toni; talöxwirú lla.
 
 > Tony is **touching** something.
 
-Aftedá zxa hlu Toni.
+Aftedá ëzxa hlu Toni.
 
 > Lisa is **touching** Tony.
 
@@ -409,7 +409,7 @@ Aftedá wefḑa talei hlu Toni.
 
 > Tony **hears** something.
 
-Celá zxa hli Toni.
+Celá ëzxa hli Toni.
 
 ### 1-29. say, says, to say, saying, said, say to, says to, to say to, saying to, said to, say this to, say about, says about, to say about, saying about, said about, say this about.
 
@@ -419,15 +419,15 @@ Celá zxa hli Toni.
 
 > Tony **says** something.
 
-Malá zxa hlu Toni.
+Malá ëzxa hlu Toni.
 
 > Tony **says** something **to** Lisa.
 
-Malá zxa hlu Toni hlü Lisë.
+Malá ëzxa hlu Toni hlü Lisë.
 
 > Tony **says** something **about** this living thing.
 
-Malá zxa hlu Toni wašwata'a.
+Malá ëzxa hlu Toni wašwata'a.
 
 > Tony **says**: "This living thing is small."
 
